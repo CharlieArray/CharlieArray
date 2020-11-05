@@ -5,7 +5,3 @@
 - 💬 **Ask me about**: jQuery and JavaScript 
 - 📫 **How to reach me**: [LinkedIn Profile - Charles Ybarra](https://www.linkedin.com/in/engineercharlie/)
 - ⚡ **Fun fact**: I accidently stumbled on a Game of Thrones film location in Iceland
-
-<!--
-**CharlieArray/CharlieArray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
