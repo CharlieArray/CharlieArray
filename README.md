@@ -1,4 +1,4 @@
-### Hi - I'm Charlie 👋
+### Hi - I'm Charlie 👋 Software Developer | Engineer | Coffee Expert 
 - 📁 **Current projects**: Asynchronous web applications, with a focus on functionality, design and user utility.
 - 🌱 **New topic of interest**: React⚛️🔬
 - 💬 **Ask me about**: jQuery and JavaScript 
