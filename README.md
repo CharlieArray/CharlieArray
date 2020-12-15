@@ -1,4 +1,4 @@
-### Hi - I'm Charlie 👋 Software Developer | Engineer | Coffee Expert 
+### Software Developer | Engineer | Coffee Expert 
 - 📫 **Programming Portfolio Website**: [Charlie's Portfolio Website](https://charliearray.github.io/personal-website/)
 - 📁 **Current projects**: React.js
 - ⭐ **My favorite new project I've built:** [Trail Finder Hiking App⛰️](https://charliearray.github.io/api-hiking-app/)
